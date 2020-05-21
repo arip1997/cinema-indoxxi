@@ -25,16 +25,16 @@ const ProfilPage = () => (
                     <div className="card">
                           <tr>
                             <th scope="row"></th>
-                            <th>Nama</th>
-                            <td>:</td>
-                            <td>Arif Rahmat Santoso</td>
+                            <th>Nama </th>
+                            <td>: </td>
+                            <td> Arif Rahmat Santoso</td>
                           </tr>
                           
                           <tr>
                             <th scope="row"></th>
-                            <th>Alamat</th>
-                            <td>:</td>
-                            <td>Surabaya, Jawa Timur</td>
+                            <th>Alamat </th>
+                            <td>: </td>
+                            <td> Surabaya, Jawa Timur</td>
                           </tr>
                                        <br></br>
 

@@ -72,7 +72,7 @@ const UserList = ({ users }) => (
         </span>
       
         <span id='span'>
-        <div><Link to={ROUTES.SIGN_IN}>
+        <div><Link to={ROUTES.LANDING}>
       <SignOutButton />  
   </Link>
   </div>

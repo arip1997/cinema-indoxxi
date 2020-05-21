@@ -17,7 +17,7 @@ function HomePage (){
   return (
   <div  id='h1-home'>
   <h1 align='center'>Selamat Datang di Cinema Indo XXI </h1><br/>
-  <img id="img" src="https://djawanews.com/wp-content/uploads/2019/12/Djawanews_Berita_Hari_Ini_tgl_24_Situs_Film_IndoXXI_akan_Dihapus_Pemerintah_Tahun_Depan_2_1_situs_film_indoxxi_akan_dihapus_kemenkominfo_twittercom.jpg" alt="img" height="400" width="1000"/>
+  <img id="img" src="https://djawanews.com/wp-content/uploads/2019/12/Djawanews_Berita_Hari_Ini_tgl_24_Situs_Film_IndoXXI_akan_Dihapus_Pemerintah_Tahun_Depan_2_1_situs_film_indoxxi_akan_dihapus_kemenkominfo_twittercom.jpg" alt="img" height="350" width="950"/>
   <div className="grid-item">
   <div className="grid-container">
   <div className="row">

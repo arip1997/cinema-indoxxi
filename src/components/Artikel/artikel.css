@@ -10,7 +10,7 @@ body {
     text-align: center;
     }
     a {
-    color:#636363;
+    color:rgb(0, 0, 0);
     text-decoration: none;
     transition:all 0.5s ease-in;
     }
@@ -59,7 +59,7 @@ body {
     text-align:center;
     font-weight:400;
     font-size:40px;
-    color:#636363;
+    color:rgb(0, 0, 0);
     }
     
     
@@ -78,7 +78,7 @@ body {
     border: 1px solid #dbe2e8;
     font-size:14px;
     border-radius:2px;
-    color:#636363;
+    color:rgb(0, 0, 0);
     box-shadow: 0 2px 2px 0 rgba(46, 60, 73, 0.05);
     outline:none;
     width:80%;
@@ -94,7 +94,7 @@ body {
     border: 1px solid #dbe2e8;
     font-size:14px;
     border-radius:2px;
-    color:#636363;
+    color:rgb(0, 0, 0);
     font-family: 'Work Sans,',sans-serif;
     box-shadow: 0 2px 2px 0 rgba(46, 60, 73, 0.05);
     outline:none;
@@ -108,7 +108,7 @@ body {
     text-align:center;
     font-weight:400;
     font-size:40px;
-    color:#636363;
+    color:rgb(0, 0, 0);
     word-wrap: break-word;
     }
     
@@ -124,7 +124,7 @@ body {
     
     
     #button {
-        background-color: #3d7e8f;
+        background-color: #c7bf4f;
         color: white;
         font-size: 14px;
         text-transform: uppercase;
@@ -135,7 +135,7 @@ body {
     .artikel{
         width: 100%;
         padding: 20px;
-        border: 1px solid rgb(16, 104, 104);
+        border: 1px solid rgba(95, 104, 16, 0.63);
         border-radius: 4px;
         box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
         display: flex;
