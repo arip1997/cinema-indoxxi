@@ -2,7 +2,7 @@ import React from 'react';
 import './profile.css';
 import img from "./../img/logo.jpg";
 
-import img1 from "./../img/instagram-png-instagram-png-logo-1455.png";
+import img1 from "./../img/instagram.png";
 import img2 from "./../img/fb1.png";
 import img3 from "./../img/wa.png";
 import img4 from "./../img/gmail.png";
@@ -34,8 +34,17 @@ const ProfilPage = () => (
                             <th scope="row"></th>
                             <th>Alamat </th>
                             <td>: </td>
-                            <td> Surabaya, Jawa Timur</td>
+                            <td> Surabaya </td>
                           </tr>
+
+                          <tr>
+                            <th scope="row"></th>
+                            <th>Status </th>
+                            <td>: </td>
+                            <td> Mahasiswa </td>
+                          </tr>
+
+                         <br></br>
                                        <br></br>
 
 
