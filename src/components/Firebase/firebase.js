@@ -3,15 +3,16 @@ import 'firebase/auth';
 import 'firebase/database';
 
 const config = {
-  apiKey: "AIzaSyAoDptyuMwiZaAvcO7WgD4kRQZZ-qGLpys",
-  authDomain: "uas-pbf-marketplace.firebaseapp.com",
-  databaseURL: "https://uas-pbf-marketplace.firebaseio.com",
-  projectId: "uas-pbf-marketplace",
-  storageBucket: "uas-pbf-marketplace.appspot.com",
-  messagingSenderId: "1045212472609",
-  appId: "1:1045212472609:web:68d6282f54980e62b54a60",
-  measurementId: "G-77WL8XL87L"
-};
+
+        apiKey: "AIzaSyDErbSFVYfTjh-GasHqT8W8mZuTMMWHmHc",
+        authDomain: "uas-pbf-arif.firebaseapp.com",
+        databaseURL: "https://uas-pbf-arif.firebaseio.com",
+        projectId: "uas-pbf-arif",
+        storageBucket: "uas-pbf-arif.appspot.com",
+        messagingSenderId: "132037000411",
+        appId: "1:132037000411:web:26a9e1d4fd1c8c890a20fe",
+        measurementId: "G-RDMPPYL81S"
+      };
     class Firebase {
         constructor(){
             app.initializeApp(config);

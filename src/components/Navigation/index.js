@@ -44,10 +44,18 @@ const NavigationAuth = () => (
 const NavigationNonAuth = () => ( // tampilan awal npm start 
   <div className="nav">
   <ul>
+  <li>
+      <Link to={ROUTES.LANDING}>Home</Link>
+    </li>
+
     <li>
       <Link to={ROUTES.SIGN_IN}>Sign In</Link>
     </li>
+    
   </ul>
+
+
+
   </div>
 );
 
